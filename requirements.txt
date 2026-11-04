@@ -1,0 +1,2 @@
+# This core engine runs purely on standard Python libraries (math, sys, argparse, dataclasses)
+# No external pip wheels strictly required to run, keeping execution sub-millisecond
